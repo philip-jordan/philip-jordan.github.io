@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in [Computer Science at EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), working with [Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en) in the [SYCAMORE](https://www.epfl.ch/labs/sycamore/) group.
+I am a PhD student in [Computer Science at EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), working with [Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en) in the [SYCAMORE](https://www.epfl.ch/labs/sycamore/) group. My research focuses on mathematical foundations of multi-agent learning. More broadly, I am interested in topics at the intersection of machine learning, optimization, and game theory.
+
+Prior to joining EPFL, I obtained my Bachelor's and Master's degrees in Computer Science from [ETH Zurich](https://ethz.ch/en.html) where I worked with [Niao He](https://odi.inf.ethz.ch/niaohe.html) and [Anas Barakat](https://anasbarakat.github.io/). During my Bachelor, I also spent a semester visiting [Princeton University](https://www.princeton.edu).
+
+Feel free to reach out, in particular if you are a M.Sc. student at EPFL interested in a semester project/thesis on the above topics.
 
 <p><strong>Contacts:</strong>&nbsp;&nbsp;&nbsp;<a href="mailto:philip.jordan@epfl.ch">philip.jordan@epfl.ch</a>,&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=ttcFqqoAAAAJ" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>,&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/philip-jordan" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i> GitHub</a>,&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/philip-jordan-4673511a8/" rel="external nofollow noopener" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></p>
