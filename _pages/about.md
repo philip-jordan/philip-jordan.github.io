@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in [Computer Science at EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), working with [Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en) in the [SYCAMORE](https://www.epfl.ch/labs/sycamore/) group. My research focuses on mathematical foundations of multi-agent learning. More broadly, I am interested in topics at the intersection of machine learning, optimization, and game theory.
+I am a PhD student in [Computer Science at EPFL](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/), working with [Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en) in the [SYCAMORE](https://www.epfl.ch/labs/sycamore/) group. I am supported by an [EPFL AI Center Fellowship](https://ai.epfl.ch/about/fellows-researchers/). My research focuses on mathematical foundations of multi-agent learning. More broadly, I am interested in topics at the intersection of machine learning, optimization, and game theory.
 
 Prior to joining EPFL, I obtained my Bachelor's and Master's degrees in Computer Science from [ETH Zurich](https://ethz.ch/en.html) where I worked with [Niao He](https://odi.inf.ethz.ch/niaohe.html) and [Anas Barakat](https://anasbarakat.github.io/). During my Bachelor, I also spent a semester visiting [Princeton University](https://www.princeton.edu).
 
